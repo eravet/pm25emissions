@@ -1,6 +1,5 @@
 # pm25emissions
-Course Project 2 (PM2.5 Emissions)  
-Assignment from Coursera's Exploratory Data Analysis by Roger Peng, PhD  
+Course Project 2 from Coursera's Exploratory Data Analysis by Roger Peng, PhD  
 Author: Eric Ravet  
 Date: 11/01/2021  
 
